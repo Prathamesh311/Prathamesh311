@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prathamesh Vinod Shingate  
 
 🎓 **Final-year BCA (Science) Student** at MIT Arts, Commerce & Science College, Pune  
-☁️ **Aspiring Cloud & DevOps Engineer** | Passionate about building scalable, automated, and cloud-based solutions  
+☁️ **Aspiring Cloud & DevOps ** | Passionate about building scalable, automated, and cloud-based solutions  
 
 ---
 
